@@ -4,11 +4,11 @@ Welcome to CS 189/289A! This class covers theoretical foundations, algorithms, m
 
 **Textbook:** [_Deep Learning Foundations and Concepts_](https://www.bishopbook.com/) by Chris Bishop and Hugh Bishop.
 
-{% file src=".gitbook/assets/Deep Learning Foundations and Concepts (Chritopher M. Bishop, Hugh Bishop).pdf" %}
+{% file src=".gitbook/assets/Deep Learning Foundations and Concepts.pdf" %}
 
-Solutions to exercises for chapters 2 to 10 is below
+Solutions to exercises for chapters 2 to 10 (version 1.0) is below
 
-{% file src=".gitbook/assets/Solutions to Exercises (Chapters 2 to 10)(Version 1.0).pdf" %}
+{% file src=".gitbook/assets/Solutions to Exercises.pdf" %}
 
 **Instructors:** Jennifer Listgarten, Saeed Saremi
 
