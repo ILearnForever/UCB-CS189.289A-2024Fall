@@ -2,7 +2,13 @@
 
 Welcome to CS 189/289A! This class covers theoretical foundations, algorithms, methodologies, and applications for machine learning. Topics may include supervised methods for regression and classication (linear models, trees, neural networks, ensemble methods, instance-based methods); generative and discriminative probabilistic models; deep learning models including CNNs, transformers, graph neural networks for vision and language tasks; and Markovian models for reinforcement learning and robotics.
 
-**Textbook:** [_Deep Learning_](https://www.bishopbook.com/) by Bishop and Bishop.
+**Textbook:** [_Deep Learning Foundations and Concepts_](https://www.bishopbook.com/) by Chris Bishop and Hugh Bishop.
+
+{% file src=".gitbook/assets/Deep Learning Foundations and Concepts (Chritopher M. Bishop, Hugh Bishop).pdf" %}
+
+Solutions to exercises for chapters 2 to 10 is below
+
+{% file src=".gitbook/assets/Solutions to Exercises (Chapters 2 to 10)(Version 1.0).pdf" %}
 
 **Instructors:** Jennifer Listgarten, Saeed Saremi
 
