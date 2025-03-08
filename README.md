@@ -1,5 +1,11 @@
 # Home
 
+{% hint style="warning" %}
+The [position](https://app.gitbook.com/s/V23kNlfUhuxj16gGF9Lb/computer/machine-learning/ucb-cs-189-289a-introduction-to-machine-learning#id-2024-fall) in My Learning Schedule
+{% endhint %}
+
+***
+
 Welcome to CS 189/289A! This class covers theoretical foundations, algorithms, methodologies, and applications for machine learning. Topics may include supervised methods for regression and classication (linear models, trees, neural networks, ensemble methods, instance-based methods); generative and discriminative probabilistic models; deep learning models including CNNs, transformers, graph neural networks for vision and language tasks; and Markovian models for reinforcement learning and robotics.
 
 **Textbook:** [_Deep Learning Foundations and Concepts_](https://www.bishopbook.com/) by Chris Bishop and Hugh Bishop.
